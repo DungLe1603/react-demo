@@ -16,14 +16,14 @@
     - SASS  
 ---
 # Kiến thức React cần biết
-#1. Introducing:
+# 1. Introducing:
 * Single Page App  & Mutil-Page Application
 * Definition Of ReactJS
 * Native, Shadow & Virtual DOM
 * XML & JSX Syntax
 * Rendering
 
-#2. Component:
+# 2. Component:
 * Class & Function component
 * State, Props & Lifecycle
 * Handling Component Event
@@ -31,22 +31,22 @@
 * Difference between html and react component tag
 * Controlled & Uncontrolled Components
 
-#3. Form:
+# 3. Form:
 * Input Tag & Handling Change Event ( single input and mutiple inputs )
 * The difference of textarea, select tag , file tag
 * Validating & Submit  Form, Fetch API
 
-#4. Advance:
+# 4. Advance:
 * Hook ( State Hook and Effect Hook )
 * Higher-Order Component (HOC)
 
-#5. React Router:
+# 5. React Router:
 * Router Types
 * Route Matching
 * Navigation
 * Recursive paths
 
-#6. Redux:
+# 6. Redux:
 * Data Flow
 * Store
 * Action
